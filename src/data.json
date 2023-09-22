@@ -1,0 +1,38 @@
+{"data":[
+    {
+      "Id": 1,
+      "name": "i phone 13",
+      "price": 50000,
+      "quantity": 1,
+      "amount": 500000
+    },
+    {
+      "Id": 2,
+      "name": "Samsung S23",
+      "price": 70000,
+      "quantity": 2,
+      "amount": 140000
+    },
+    {
+      "Id": 3,
+      "name": "i phone 14",
+      "price": 85000,
+      "quantity": 1,
+      "amount": 85000
+    },
+    {
+      "Id": 4,
+      "name": "Samsung S23 ultra",
+      "price": 120000,
+      "quantity": 1,
+      "amount": 120000
+    },
+    {
+      "Id": 5,
+      "name": "i phone 14 pro",
+      "price": 155000,
+      "quantity": 1,
+      "amount": 155000
+    }
+  ]
+}

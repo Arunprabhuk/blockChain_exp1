@@ -1,0 +1,14 @@
+
+.heading{
+    text-align: center;
+    margin-top: 20px;
+
+}
+/* Table.css */
+.customWidth {
+    width: 70%;  /* or any width you want */
+    margin: 0 auto; /* this will center the table if desired */
+}
+.btn1{
+    margin: 10px;
+}

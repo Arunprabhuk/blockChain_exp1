@@ -1,0 +1,69 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');.App {
+  text-align: center;
+}
+
+/* .inputbtn{
+  margin-right: 5%;
+  width:15%;
+  margin-top: 10%;
+} */
+
+
+.inputcard{
+  margin-top: 10%;
+  background-color:#5c7586;
+}
+.listcard {
+  background-color:#EDE4E0
+}
+/* .qty{
+  width: 30%;
+ 
+} */
+.heading{
+  margin: auto;
+}
+
+.transaction-history-link{
+  text-decoration: none;
+  cursor: pointer;
+  
+ 
+
+}
+.my-custom-card {
+  width: 200px; 
+  height: 200px; 
+}
+.qtytext{
+  width: 30%;
+  height:10%
+}
+
+.qty{
+  width:10%;
+}
+.inputbtn{
+   background-color:#3667A6;
+   color:white;
+   font-family: 'Roboto', sans-serif;
+  
+}
+.inputbtn:hover{
+  background-color:#173966;
+  color:white;
+  font-family: 'Roboto', sans-serif;
+}
+.card-title {
+font-family: 'Montserrat', sans-serif;
+font-weight:700px;
+}
+.title{
+  margin-bottom: 20px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+.addbtn {
+margin-right: -30px;
+}
